@@ -1,4 +1,3 @@
-Learn more or give us feedback
 def create_an_empty_array
   []  
 end
